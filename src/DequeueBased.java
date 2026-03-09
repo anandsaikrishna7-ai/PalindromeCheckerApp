@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class UseCase7PalindromeCheckerApp {
+public class DequeueBased {
 
     public static void main(String[] args) {
 
