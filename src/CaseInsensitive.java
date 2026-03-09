@@ -1,4 +1,4 @@
-public class UseCase10PalindromeCheckerApp {
+public class CaseInsensitive {
 
     public static void main(String[] args) {
 
