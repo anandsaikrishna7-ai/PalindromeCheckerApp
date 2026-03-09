@@ -20,7 +20,7 @@ class PalindromeChecker {
     }
 }
 
-public class UseCase11PalindromeCheckerApp {
+public class ObjectOriented {
 
     public static void main(String[] args) {
 
