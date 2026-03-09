@@ -1,4 +1,4 @@
-public class UseCase13PalindromeCheckerApp {
+public class PerformanceComparison {
     public static boolean reverseMethod(String text) {
 
         String reversed = "";
