@@ -1,4 +1,4 @@
-public class UseCase8PalindromeCheckerApp {
+public class LinkedListBased {
 
     // Node class for Linked List
     static class Node {
